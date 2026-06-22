@@ -22,3 +22,9 @@ build-backend = "poetry.core.masonry.api"
 
 [tool.poetry.scripts]
 wadler = "wadler.main:main"
+
+[tool.uv]
+exclude-newer = "P2D"
+
+[solver]
+min-release-age = 2
