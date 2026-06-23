@@ -2,6 +2,8 @@
 
 The WADLer is a quick and dirty Python POC script for quickly testing API endpoints pulled from Web Application Description Language (WADL) files. WADL files are XML files that contain API definitions for REST APIs. They outline API paths, needed parameters, HTTP methods, supported data formats, etc.
 
+Checkout the SRA Labs Blogpost [here](https://labs.sra.io/posts/wadler/).
+
 The WADLer allows you to quickly send a single request to each API endpoint from a remote or local WADL file with test data for each defined parameter. This can be helpful for finding endpoints that allow you to interact with them *without authentication* en-masse.
 
 ## Installation
