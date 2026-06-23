@@ -8,12 +8,12 @@ The WADLer allows you to quickly send a single request to each API endpoint from
 
 Only tested on python `3.12.3`.
 
-Use [poetry](https://python-poetry.org/), [pipx](https://pipx.pypa.io/stable/), or a similar tool to install PacketHuffer:
+Use [poetry](https://python-poetry.org/), [pipx](https://pipx.pypa.io/stable/), or a similar tool to install the WADLer:
 
 ```bash
-poetry install
+poetry install .
 
-pipx install .
+pipx install wadler
 ```
 
 ## Usage
