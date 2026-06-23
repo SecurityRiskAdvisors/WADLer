@@ -1,6 +1,6 @@
 [project]
 name = "wadler"
-version = "0.1.0"
+version = "0.1.1"
 description = "A simple tool for testing API endpoints pulled from Web Application Description Language (WADL) files."
 authors = [
     {name = "Liam Geyer",email = "liam.geyer@sra.io"}
